@@ -1,0 +1,6 @@
+# aquamarine = '#7FFFD4'
+red = '#FF3E3E'
+yellow = '#FFFF00'
+green = '#228B22'
+dblue = '#400080'
+turquoise = '#40E0D0'
